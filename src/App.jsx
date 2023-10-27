@@ -6,7 +6,6 @@ import Cart from "./pages/cart/cart";
 import ShopContextProvider from "./context/shop-context";
 export default function App() {
   return (
-
     <ShopContextProvider>
       <Router>
         <Navbar />
