@@ -21,7 +21,7 @@ This is a basic shopping cart web app in which user can add their product in car
 
 ### Links
 
-- GitHub Repo URL: [Basic Shopping Cart GitHub repo](https://github.com/faisgit/React-Projects/tree/main/shopping-cart)
+- GitHub Repo URL: [Basic Shopping Cart GitHub repo](https://github.com/faisgit/shopping-cart)
 - Live Site URL: [Basic Quiz Live Url](https://react-projects-pdor.vercel.app/)
 
 ## My process
